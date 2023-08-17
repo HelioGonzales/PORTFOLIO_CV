@@ -1,11 +1,11 @@
 /* *** Custom Promerties *** */
 :root {
-  --first-color: #d90062;
-  --first-alpha-color: rgba(217,0,98,0.75);
+  --first-color: #00fbe3;
+  --first-alpha-color: rgb(2,0,36, 0.75);
   --second-color: #14192d;
   --second-alpha-color: rgba(20,25,45,0.75);
-  --third-color: #501464;
-  --third-alpha-color: rgba(80,20,100,0.75); 
+  --third-color: #095b79;
+  --third-alpha-color: rgb(2,0,36, 0.75); 
   --white-color: #fff;
   --gray-light-color: #f3f3f3;
   --gray-color: #ccc;
